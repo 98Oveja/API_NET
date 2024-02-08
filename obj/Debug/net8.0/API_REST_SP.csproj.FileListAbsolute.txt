@@ -1,0 +1,7 @@
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.csproj.AssemblyReference.cache
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.AssemblyInfoInputs.cache
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.AssemblyInfo.cs
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.csproj.CoreCompileInputs.cache
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.MvcApplicationPartsAssemblyInfo.cs
+/Users/oveja/Downloads/ASP_NET/API_REST_SP/obj/Debug/net8.0/API_REST_SP.MvcApplicationPartsAssemblyInfo.cache
